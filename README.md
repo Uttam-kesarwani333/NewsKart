@@ -1,1 +1,3 @@
-# NewsKart ia News WebApps which is Integrated with NewsAPI.
+# NewsKart 
+
+NewsKart is News WebApps which is Integrated with NewsAPI.
